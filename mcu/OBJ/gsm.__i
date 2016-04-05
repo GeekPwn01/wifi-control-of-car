@@ -1,0 +1,1 @@
+-c --device DARMSTM -g -O0 --apcs=interwork -I..\USER -I..\CORE -I..\STM32F10x_FWLib\inc -I..\SYSTEM\delay -I..\SYSTEM\sys -I..\SYSTEM\usart -I "c:\Keil_arm\ARM\INC\ST\STM32F10x" -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -o "..\OBJ\gsm.o" --omf_browse "..\OBJ\gsm.crf" --depend "..\OBJ\gsm.d" "gsm.c"

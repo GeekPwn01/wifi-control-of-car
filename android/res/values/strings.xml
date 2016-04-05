@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">mcuWiFI</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="STC15F2K60S2">STM32单片机</string>
+    <string name="AndroidWiFi">"Android Wi-Fi 控制系统"</string>
+    <string name="taobao">http://365-dz.taobao.com</string>
+    <string name="wifi">搜索Wi-Fi无线网  </string>
+    <string name="wifiq">链接Wi-Fi无线网  </string>
+    <string name="led">    前进    </string>
+    <string name="ledc">    右转   </string>
+    <string name="jdq">   左转    </string>
+    <string name="jdqc">    后退     </string>
+    <string name="jd">   停止     </string>
+    <string name="fs">   发送     </string>
+    <string name="fsc">接收到的消息:  </string>
+</resources>
